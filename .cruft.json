@@ -1,0 +1,33 @@
+{
+  "template": "https://github.com/linkml/linkml-project-cookiecutter",
+  "commit": "494e28e5496acc76558c07c95dea62d2db05081c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "linkml-tutorial-2024",
+      "__project_slug": "linkml_tutorial_2024",
+      "github_org": "hoodriverheather",
+      "__source_path": "src/linkml_tutorial_2024/schema/linkml_tutorial_2024.yaml",
+      "project_description": "This is the LinkML tutorial project from 2024",
+      "full_name": "Heather Kincaid",
+      "email": "hoodriverheather@gmail.com",
+      "__author": "Heather Kincaid <hoodriverheather@gmail.com>",
+      "license": "MIT",
+      "main_schema_class": "Person",
+      "create_python_classes": "Yes",
+      "use_schemasheets": "No",
+      "google_sheet_id": "1wVoaiFg47aT9YWNeRfTZ8tYHN8s8PAuDx5i2HUcDpvQ",
+      "google_sheet_tabs": "personinfo enums",
+      "__google_sheet_module": "personinfo_enums",
+      "github_token_for_pypi_deployment": "PYPI_PASSWORD",
+      "_copy_without_render": [
+        "justfile",
+        "src/docs/js/*",
+        "src/docs/javascript/*"
+      ],
+      "_template": "https://github.com/linkml/linkml-project-cookiecutter",
+      "_commit": "494e28e5496acc76558c07c95dea62d2db05081c"
+    }
+  },
+  "directory": null
+}
